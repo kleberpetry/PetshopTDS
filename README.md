@@ -1,2 +1,2 @@
-# PetshopTDS
-Projeto da turma TDS 01
+# petshop
+
